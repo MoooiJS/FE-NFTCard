@@ -39,7 +39,7 @@ main {
 
 .nft-img {
   width: 100%;
-  background-image: url(/images/image-equilibrium.jpg);
+  background-image: url(/FE-NFTCard/images/image-equilibrium.jpg);
   aspect-ratio: 1;
   background-size: contain;
   border-radius: 10px;
